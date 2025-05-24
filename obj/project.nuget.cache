@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "XIXLGz+3pbM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\Desktop\\Tercer semestre\\Progra 1\\Mi IA\\Mi IA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\documentformat.openxml\\3.3.0\\documentformat.openxml.3.3.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\documentformat.openxml.framework\\3.3.0\\documentformat.openxml.framework.3.3.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\documentformat.openxml.linq\\3.3.0\\documentformat.openxml.linq.3.3.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\magick.net-q16-anycpu\\14.5.0\\magick.net-q16-anycpu.14.5.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\magick.net.core\\14.5.0\\magick.net.core.14.5.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\magick.net.systemdrawing\\8.0.5\\magick.net.systemdrawing.8.0.5.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\shapecrawler\\0.68.1\\shapecrawler.0.68.1.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\skiasharp\\3.119.0\\skiasharp.3.119.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\skiasharp.nativeassets.linux\\3.119.0\\skiasharp.nativeassets.linux.3.119.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.0\\skiasharp.nativeassets.macos.3.119.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.0\\skiasharp.nativeassets.win32.3.119.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.drawing.common\\8.0.11\\system.drawing.common.8.0.11.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.formats.nrbf\\9.0.3\\system.formats.nrbf.9.0.3.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.resources.extensions\\9.0.3\\system.resources.extensions.9.0.3.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.text.json\\9.0.3\\system.text.json.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

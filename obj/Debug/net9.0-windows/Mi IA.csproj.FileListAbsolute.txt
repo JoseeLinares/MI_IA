@@ -1,0 +1,60 @@
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\Interop.Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\Interop.Microsoft.Office.Core.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\Mi IA.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\Mi IA.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\Mi_IA.Form1.resources
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\Mi IA.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\Mi IA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\Mi IA.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\Mi IA.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\Mi IA.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\Mi IA.exe
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\Mi IA.deps.json
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\Mi IA.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\Mi IA.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\Mi IA.pdb
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Linq.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\Magick.NET-Q16-AnyCPU.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\Magick.NET.Core.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\Magick.NET.SystemDrawing.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\ShapeCrawler.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\SkiaSharp.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\System.Formats.Nrbf.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\System.Resources.Extensions.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\Magick.Native-Q16-arm64.dll.so
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\Magick.Native-Q16-arm64.dll.dylib
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Magick.Native-Q16-arm64.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\linux-loongarch64\native\libSkiaSharp.so
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libSkiaSharp.so
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libSkiaSharp.so
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\linux-musl-loongarch64\native\libSkiaSharp.so
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\linux-musl-riscv64\native\libSkiaSharp.so
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\linux-riscv64\native\libSkiaSharp.so
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\linux-x86\native\libSkiaSharp.so
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\Mi IA.csproj.Up2Date
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\Mi IA.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\refint\Mi IA.dll
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\Mi IA.pdb
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\Mi IA.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Tercer semestre\Progra 1\Mi IA\obj\Debug\net9.0-windows\ref\Mi IA.dll
